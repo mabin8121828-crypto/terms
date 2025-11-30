@@ -1,0 +1,19 @@
+{
+  "id": "equestrian-pro",
+  "name": "Equestrian Professional Glossary",
+  "description": "Professional equestrian terms including Dressage, Show Jumping, Biomechanics, and Tack. Focuses on precise translation of technical concepts like Throughness and Half-halt.",
+  "author": "mabin8121828-crypto",
+  "glossary": "equestrian-pro",
+  "langs": ["zh-CN", "en"],
+  "i18ns": {
+    "zh-CN": {
+      "name": "马术专业术语库（高精度版）",
+      "description": "涵盖盛装舞步、场地障碍、马匹生物力学及装备的专业术语。严格执行 Half-halt (半减却)、Throughness (贯通性) 等高阶概念的精准翻译。"
+    },
+    "en": {
+      "name": "Equestrian Professional Glossary (High Precision)",
+      "description": "Professional equestrian terms (Dressage, Show Jumping, Biomechanics, and Tack), focusing on accurate, standardized translations for concepts like Collection, Schwung, and Double Bridle."
+    }
+  },
+  "matches": []
+}
