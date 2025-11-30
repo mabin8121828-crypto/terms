@@ -1,0 +1,192 @@
+source,target,tgt_lng
+Walk,慢步,zh-CN
+Trot,快步,zh-CN
+Canter,跑步,zh-CN
+Gallop,跑步,zh-CN
+Collected walk,收缩慢步,zh-CN
+Collected trot,收缩快步,zh-CN
+Collected canter,收缩跑步,zh-CN
+Working trot,工作快步,zh-CN
+Medium trot,中等快步,zh-CN
+Extended trot,伸展快步,zh-CN
+Extended walk,伸展慢步,zh-CN
+Extended canter,伸展跑步,zh-CN
+Sitting trot,压浪,zh-CN
+Rising trot,起坐快步,zh-CN
+Collected medium trot,收缩中等快步,zh-CN
+Medium canter,中等跑步,zh-CN
+Bit,衔铁,zh-CN
+On the bit,受衔,zh-CN
+Behind the bit,向下避衔,zh-CN
+Above the bit,向上避衔,zh-CN
+Off the bit,脱衔,zh-CN
+Curl,卷颈避衔,zh-CN
+Soft in the mouth,口感柔和,zh-CN
+Tight jaw,紧张下颌,zh-CN
+Acceptance of the bit,接受马衔,zh-CN
+Contact,联系,zh-CN
+Connection,连接,zh-CN
+Seat,骑座,zh-CN
+Rider’s seat,骑手的骑坐,zh-CN
+Independent seat,独立骑坐,zh-CN
+Balanced seat,平衡骑坐,zh-CN
+Deep seat,深骑坐,zh-CN
+Light seat,轻坐,zh-CN
+Half-seat,半骑坐,zh-CN
+Two-point seat,两点骑坐,zh-CN
+Seat aids,骑坐辅助,zh-CN
+Seat bones,坐骨,zh-CN
+Correct seat,正确骑坐,zh-CN
+Use of the seat,骑坐的运用,zh-CN
+Poll,项部,zh-CN
+At the poll,在头项处,zh-CN
+Poll should be the highest point,头项应为最高点,zh-CN
+Flexion,屈曲,zh-CN
+Flexion at the poll,头项屈曲,zh-CN
+Lateral flexion,侧向屈曲,zh-CN
+Vertical flexion,纵向屈曲,zh-CN
+Inside bend,内侧体弯,zh-CN
+Outside bend,外侧体弯,zh-CN
+Counter bend,反向体弯,zh-CN
+Over-flexion,过度屈曲,zh-CN
+Hyperflexion,过度纵向屈曲,zh-CN
+Rollkur,过度纵向屈曲,zh-CN
+Leg-yield,偏横步,zh-CN
+Half-pass,斜横步,zh-CN
+Passage,帕萨基,zh-CN
+Piaffe,原地踏步,zh-CN
+Shoulder-in,内方肩,zh-CN
+Shoulder-out,肩外,zh-CN
+Travers,臀内,zh-CN
+Renvers,臀外,zh-CN
+Flying change,换腿,zh-CN
+Tempi changes,间隔连续换腿,zh-CN
+One-tempi change,单步换腿,zh-CN
+Two-tempi change,双步换腿,zh-CN
+Counter-canter,反向跑步,zh-CN
+Simple change,简单换腿,zh-CN
+Extended medium trot,扩展中等快步,zh-CN
+Working canter,工作跑步,zh-CN
+Pirouette canter,回转跑步,zh-CN
+Pirouette,原地回转,zh-CN
+Volte,小圈乘,zh-CN
+Serpentine,蛇形路线,zh-CN
+School halt,调教立定,zh-CN
+Levade,半腾跃,zh-CN
+Courbette,弓步跳跃,zh-CN
+Capriole,空中踢腿,zh-CN
+Mezair,半腾跃跳,zh-CN
+Ballotade,半踢腿,zh-CN
+Croupade,臀部腾跃,zh-CN
+Work in hand,地面牵引训练,zh-CN
+Long rein,长缰训练,zh-CN
+Airs above the ground,空中动作,zh-CN
+Spanish walk,西班牙步伐,zh-CN
+Spanish trot,西班牙快步,zh-CN
+Passage in hand,地面伸长快步,zh-CN
+Piaffe in hand,地面原地踏步,zh-CN
+Work above the ground,地面以上动作,zh-CN
+School trot,调教快步,zh-CN
+School canter,调教跑步,zh-CN
+Pesade,立姿,zh-CN
+Terre-à-terre,双足跳跃,zh-CN
+Passage on long rein,长缰伸长快步,zh-CN
+Piaffe on long rein,长缰原地踏步,zh-CN
+Classical rein,古典缰法,zh-CN
+Collected pirouette,收缩回转,zh-CN
+Zig-zag half-pass,之字形斜横步,zh-CN
+Pirouette walk,慢步回转,zh-CN
+Transition,转换,zh-CN
+Lunge,打圈,zh-CN
+Halt,停止,zh-CN
+Rein-back,后退,zh-CN
+Turn on the forehand,前后肢回转,zh-CN
+Turn on the haunches,后肢回转,zh-CN
+Behind the leg,落后于腿/不前,zh-CN
+Losing contact,失去缰感,zh-CN
+Leaning on the bit,依手,zh-CN
+Heavy on the hand,压手,zh-CN
+Hollow,塌背,zh-CN
+Bracing,僵硬对抗,zh-CN
+Crooked,歪斜/不正,zh-CN
+Running through the hand,冲手,zh-CN
+Blocking,阻滞/顶抗,zh-CN
+Overbent,过度屈曲,zh-CN
+Leg aids,腿辅助,zh-CN
+Rein aids,缰辅助,zh-CN
+Weight aids,体重辅助,zh-CN
+Voice aids,声音辅助,zh-CN
+Half-halt,半减却,zh-CN
+Inside leg,内侧腿,zh-CN
+Outside leg,外侧腿,zh-CN
+Inside rein,内侧缰,zh-CN
+Outside rein,外侧缰,zh-CN
+Inside shoulder,内侧肩,zh-CN
+Outside shoulder,外侧肩,zh-CN
+Inside hind,内后肢,zh-CN
+Outside hind,外后肢,zh-CN
+Tempo,步速,zh-CN
+Quick tempo,步速过快,zh-CN
+Slow tempo,步速过慢,zh-CN
+Rhythm,节奏,zh-CN
+Cadence,韵律,zh-CN
+Rhythm irregularity,节奏不均,zh-CN
+Throughness,贯通性,zh-CN
+Suppleness,松柔,zh-CN
+Relaxation,放松,zh-CN
+Engagement,后肢深踏,zh-CN
+Submission,顺从,zh-CN
+Tension,紧张,zh-CN
+Energy,能量,zh-CN
+Forwardness,前进性,zh-CN
+Impulsion,推进力,zh-CN
+Collection,收缩,zh-CN
+Extension,伸展,zh-CN
+Self-carriage,自我承载,zh-CN
+On the forehand,前躯负重/前趴,zh-CN
+Uphill balance,上仰平衡,zh-CN
+Downhill balance,下冲平衡,zh-CN
+Frame,架构,zh-CN
+Outline,姿态轮廓/体型框架,zh-CN
+Round frame,姿态轮廓/体型框架,zh-CN
+Straightness,正直度,zh-CN
+Bridle,水勒,zh-CN
+Saddle,马鞍,zh-CN
+Stirrup,马镫,zh-CN
+Girth,肚带,zh-CN
+Noseband,鼻革,zh-CN
+Aids,辅助,zh-CN
+Approach,进障碍,zh-CN
+Bascule,跃弧,zh-CN
+Cavaletti,地杆,zh-CN
+Center line,中线,zh-CN
+Change rein,换手,zh-CN
+Circle,圈乘,zh-CN
+Crookedness,歪斜,zh-CN
+Croup,臀部,zh-CN
+Curb,大勒,zh-CN
+Diagonal,对角线,zh-CN
+Double Bridle,双勒,zh-CN
+Fence,障碍,zh-CN
+Figure-eight,8字形,zh-CN
+Forehand,前躯,zh-CN
+Hindquarters,后躯,zh-CN
+Hock,飞节,zh-CN
+Hollow back,塌背,zh-CN
+Jump,障碍,zh-CN
+Landing,落地,zh-CN
+Loins,腰部,zh-CN
+Lunging,打圈,zh-CN
+Oxer,双横木障碍,zh-CN
+Pelham,佩勒姆,zh-CN
+Refusal,拒跳,zh-CN
+Reins,缰绳,zh-CN
+Run-out,绕开障碍,zh-CN
+Schwung,摆荡推进,zh-CN
+Scope,能力,zh-CN
+Snaffle,小勒,zh-CN
+Stride,一步,zh-CN
+Take-off,起跳,zh-CN
+Topline,上背线,zh-CN
+Vertical,直立障碍,zh-CN
+Withers,鬐甲,zh-CN
